@@ -8,6 +8,6 @@ In the project directory, you can run:
 
 ### `npm start`
 
-
 https://cryptocurrencies-b.netlify.app/
 
+![alt text for screen readers](/pictures/Screenshot-1.png "Text to show on mouseover")
